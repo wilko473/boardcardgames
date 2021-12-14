@@ -1,8 +1,8 @@
-This project contains the custom code to train DMC agents on Keezen. The folder structure could be copied over a RLCard project. Just register the keezen environment in the __init__.py.  
+This project contains the custom code to train DMC agents on Keezen. The folder structure could be copied over a RLCard project. Just register the keezen environment in the `__init__.py`.  
   
 The folder structure:  
 
-`/examples/experiments/dmc_keezen_result/keezenexpid7` -> experiment folder with a generated model and a processed.csv with tournament results against randomly playing agents.  
+`/examples/experiments/dmc_keezen_result/keezenexpid7` -> experiment folder with a generated model and a `processed.csv` with tournament results against randomly playing agents.  
 `/rlcard/envs/keezen.py` -> the keezen environment  
 `/rlcard/games/keezen/agent.py` -> rule-based agent  
 `/rlcard/games/keezen/board.py`  
