@@ -3,7 +3,7 @@ This project contains the custom code to train DMC agents on Keezen. The folder 
 The folder structure:  
 
 `/examples/experiments/dmc_keezen_result/keezenexpid7` -> experiment folder with a generated model and a `processed.csv` with tournament results against randomly playing agents.  
-`/migrationtests` -> Folder with game unit tests that were used during the migration from Swift to Python
+`/migrationtests` -> Folder with game unit tests that were used during the migration from Swift to Python  
 `/rlcard/envs/keezen.py` -> the keezen environment  
 `/rlcard/games/keezen/agent.py` -> rule-based agent  
 `/rlcard/games/keezen/board.py`  
