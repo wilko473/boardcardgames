@@ -1,4 +1,4 @@
-This project contains the custom code to train DMC agents on Keezen. The folder structur could be copied over a RLCard project. Just register the keezen environment in the __init__.py.  
+This project contains the custom code to train DMC agents on Keezen. The folder structure could be copied over a RLCard project. Just register the keezen environment in the __init__.py.  
   
 The folder structure:  
 
