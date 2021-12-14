@@ -13,6 +13,8 @@ The folder structure:
 `/rlcard/games/keezen/move.py`  
 `/rlcard/games/keezen/player.py`  
 `/rlcard/games/keezen/rules.py`  
+`/tests/envs/test_keezen_env.py` -> Test class for KeezenEnv  
+`/tests/games/test_keezen_game.py` -> Test class for KeezenGameAdapter  
   
 The project operated with the following scripts (in the examples directory):  
 
